@@ -3,4 +3,4 @@ The cap has an 8 by 32 grid of LED's that scrolls the message "Hi mom, I'm gradu
 
 This project uses an Arduino Uno board and also uses the <a href="https://github.com/MajicDesigns/MD_Parola"> MD_Parola </a> library to scroll the text.  
 
-You can view a demo of my finished project <a href="https://www.youtube.com/watch?v=ze5gKx6h5AQ"> here </a> or view detailed instructions on how this project was made on my <a href = "google.com"> instructables page </a>.
+You can view a demo of my finished project <a href="https://www.youtube.com/watch?v=ze5gKx6h5AQ"> here </a> or view detailed instructions on how this project was made on my <a href = "https://www.instructables.com/id/Epic-Graduation-Cap/"> instructables page </a>.
